@@ -16,3 +16,4 @@
 [![](https://visitcount.itsvg.in/api?id=ahmedm0101&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<figure><embed src="https://wakatime.com/share/@49d656ed-2567-411c-af1d-ec6d138faa06/179398cb-b348-4d56-97c7-03baa960828b.svg"></embed></figure>

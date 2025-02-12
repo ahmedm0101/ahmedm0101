@@ -15,6 +15,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ahmedm0101&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<figure><embed src="https://wakatime.com/share/@49d656ed-2567-411c-af1d-ec6d138faa06/179398cb-b348-4d56-97c7-03baa960828b.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@49d656ed-2567-411c-af1d-ec6d138faa06/308f3a60-2c43-446e-bd50-0df83e5a92ab.png" /></a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
